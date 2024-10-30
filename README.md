@@ -69,7 +69,7 @@ Follow this [manual](https://docs.docker.com/engine/install/ubuntu/#install-usin
 1. Clone this project (include submodules)
 
 ```
-git clone --recursive https://github.com/tico88612/cms-docker.git
+git clone --recursive https://github.com/sinasadeghi83/cms-docker.git
 ```
 
 2. If you want to change worker number, edit `config/cms.conf` and `docker-compose.yml`
